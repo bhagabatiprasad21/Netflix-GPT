@@ -2,6 +2,9 @@
 
 - Create React App
 - Configured TailwindCSS
+- Header
+- Login form
+- Sign Up form
 
 # Features
 
@@ -11,12 +14,13 @@
   - redirect to Browse page
 
 - Browse (after Authentication)
+
   - Header
   - Main Movie
     - trailer in background
     - Title and Description
     - Movie Suggestions
-      - Movie Lists * N
+      - Movie Lists \* N
 
 - Netflix GPT
   - Search Bar
